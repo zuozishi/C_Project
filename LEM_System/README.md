@@ -16,7 +16,7 @@
 ### 分支说明
  仓库中包含有若干分支；若无特殊声明或特殊情况，master分支中即为最新的稳定版本的代码，feature分支为测试中的代码，以feature_开头或以bugfix_开头的分支为正在开发的代码；除master分支外，均为不稳定版本。
 ### 编译
- 代码编译需要Visual Studio 2015和Windows 7或更高版本，且FFMpeg相关代码请自行获取编译；为便于管理，仓库不给出FFMpeg相关代码或编译结果。
+ 代码编译需要Visual Studio 2015和Windows 7或更高版本。
 
 ## 反馈
  若master分支代码或Releases最新的发行包*（非master分支代码或非最新发行包的问题请不要反馈）*出现功能性问题或者崩溃现象，欢迎新建Issue或发送邮件至wwb123123@outlook.com进行反馈。
